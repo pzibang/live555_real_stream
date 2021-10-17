@@ -1,1 +1,4 @@
-# live555_real_stream
+# live555
+
+come from:
+https://www.cnblogs.com/weixinhum/p/3916676.html
